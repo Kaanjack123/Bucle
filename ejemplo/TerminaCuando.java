@@ -7,7 +7,7 @@ public class TerminaCuando {
 		    do {
 		      System.out.print("Dime un número: ");
 		      numero = Integer.parseInt(System.console().readLine());
-		      
+		      afsaf
 		      if (numero % 2 == 0) {// comprueba si el número introducido es par
 		        System.out.println("Qué bonito es el " + numero);
 		      } else {
